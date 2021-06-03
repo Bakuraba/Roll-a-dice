@@ -1,0 +1,32 @@
+C:\Users\karim\Documents\c# basics\bin\Debug\net5.0\c# basics.exe
+C:\Users\karim\Documents\c# basics\bin\Debug\net5.0\c# basics.deps.json
+C:\Users\karim\Documents\c# basics\bin\Debug\net5.0\c# basics.runtimeconfig.json
+C:\Users\karim\Documents\c# basics\bin\Debug\net5.0\c# basics.runtimeconfig.dev.json
+C:\Users\karim\Documents\c# basics\bin\Debug\net5.0\c# basics.dll
+C:\Users\karim\Documents\c# basics\bin\Debug\net5.0\ref\c# basics.dll
+C:\Users\karim\Documents\c# basics\bin\Debug\net5.0\c# basics.pdb
+C:\Users\karim\Documents\c# basics\obj\Debug\net5.0\c# basics.csprojAssemblyReference.cache
+C:\Users\karim\Documents\c# basics\obj\Debug\net5.0\c# basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim\Documents\c# basics\obj\Debug\net5.0\c# basics.AssemblyInfoInputs.cache
+C:\Users\karim\Documents\c# basics\obj\Debug\net5.0\c# basics.AssemblyInfo.cs
+C:\Users\karim\Documents\c# basics\obj\Debug\net5.0\c# basics.csproj.CoreCompileInputs.cache
+C:\Users\karim\Documents\c# basics\obj\Debug\net5.0\c# basics.dll
+C:\Users\karim\Documents\c# basics\obj\Debug\net5.0\ref\c# basics.dll
+C:\Users\karim\Documents\c# basics\obj\Debug\net5.0\c# basics.pdb
+C:\Users\karim\Documents\c# basics\obj\Debug\net5.0\c# basics.genruntimeconfig.cache
+C:\Users\karim\Documents\Roll a dice\bin\Debug\net5.0\c# basics.exe
+C:\Users\karim\Documents\Roll a dice\bin\Debug\net5.0\c# basics.deps.json
+C:\Users\karim\Documents\Roll a dice\bin\Debug\net5.0\c# basics.runtimeconfig.json
+C:\Users\karim\Documents\Roll a dice\bin\Debug\net5.0\c# basics.runtimeconfig.dev.json
+C:\Users\karim\Documents\Roll a dice\bin\Debug\net5.0\c# basics.dll
+C:\Users\karim\Documents\Roll a dice\bin\Debug\net5.0\ref\c# basics.dll
+C:\Users\karim\Documents\Roll a dice\bin\Debug\net5.0\c# basics.pdb
+C:\Users\karim\Documents\Roll a dice\obj\Debug\net5.0\c# basics.csprojAssemblyReference.cache
+C:\Users\karim\Documents\Roll a dice\obj\Debug\net5.0\c# basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim\Documents\Roll a dice\obj\Debug\net5.0\c# basics.AssemblyInfoInputs.cache
+C:\Users\karim\Documents\Roll a dice\obj\Debug\net5.0\c# basics.AssemblyInfo.cs
+C:\Users\karim\Documents\Roll a dice\obj\Debug\net5.0\c# basics.csproj.CoreCompileInputs.cache
+C:\Users\karim\Documents\Roll a dice\obj\Debug\net5.0\c# basics.dll
+C:\Users\karim\Documents\Roll a dice\obj\Debug\net5.0\ref\c# basics.dll
+C:\Users\karim\Documents\Roll a dice\obj\Debug\net5.0\c# basics.pdb
+C:\Users\karim\Documents\Roll a dice\obj\Debug\net5.0\c# basics.genruntimeconfig.cache
